@@ -1,1 +1,3 @@
 # Cats-Dogs_Classification
+
+This is a Data Science project where the model predicts whether the given image is of cat or dog...
